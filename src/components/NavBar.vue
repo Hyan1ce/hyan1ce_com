@@ -33,9 +33,10 @@
                             其他
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="http://localhost:8080/others/projects/">项目</a></li>
+                            <li><a class="dropdown-item" href="/others/projects/">项目</a></li>
                             <li><a class="dropdown-item" href="#">简历</a></li>
                             <li><a class="dropdown-item" href="#">联系博主</a></li>
+                            <li><a class="dropdown-item" href="/plan/">网站更新计划</a></li>
                         </ul>
                     </li>
                 </ul>

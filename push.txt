@@ -1,0 +1,3 @@
+d:
+cd Projects/hyan1ce_com/web
+npm run push
